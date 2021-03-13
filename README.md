@@ -4,6 +4,8 @@ This is a quick bit of code I drafted to visualize actual federal minimum wage v
 
 Data was brought in and analyzed using Python and visualized using Matplotlib.
 
+Libraries: Pandas, Matplotlib, CPI
+
 ---
 Feel free to check out my personal blog at [jedraynes.com](https://www.jedraynes.com). There, you can find ways to contact me via a contact form or over [LinkedIn](https://www.linkedin.com/in/jedraynes/).
 
